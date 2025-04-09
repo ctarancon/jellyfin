@@ -7,7 +7,7 @@ using MediaBrowser.Controller.Providers;
 using MediaBrowser.Model.Entities;
 using MediaBrowser.Model.IO;
 using MediaBrowser.Providers.Manager;
-using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging; 
 
 namespace MediaBrowser.Providers.Books
 {
